@@ -1,0 +1,15 @@
+a {
+  color: #00B7FF;
+}
+
+body .card .card-text{
+  font: 16px Roboto;
+  color: #666;
+}
+body .main-header{
+  width: 100%;
+}
+
+body .margin-top-20{
+  margin-top: 20px;
+}

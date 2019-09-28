@@ -1,0 +1,33 @@
+{
+    "products": [{
+        "title": "Shalimar",
+        "id":1,
+        "description": "Shalimar description1",
+        "imgPath": "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/822898_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$",
+        "price": "20"
+    },{
+        "title": "Charlie",
+        "id":2,
+        "description": "Revlon Charlie Red Perfume",
+        "imgPath": "https://images-na.ssl-images-amazon.com/images/I/61xFdsqEfML._SY879_.jpg",
+        "price": "20"
+    },{
+        "title": "Denever",
+        "id":3,
+        "description": "Denver Hamilton Perfume ",
+        "imgPath": "https://images-na.ssl-images-amazon.com/images/I/51WrRhYkNYL._SX466_.jpg",
+        "price": "20"
+    },{
+        "title": "Versace",
+        "id":4,
+        "description": "Versace yellow diamond",
+        "imgPath": "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/1079583_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$",
+        "price": "20"
+    },{
+        "title": "Skinn",
+        "id":5,
+        "description": "Skinn by titan",
+        "imgPath": "https://staticimg.titan.co.in/Skinn/Catalog/FM04PGC_3.jpg?pView=pdp",
+        "price": "20"
+    }]
+}
